@@ -5,6 +5,6 @@
  
  This is the source code we shall use with Sonarcloud
 
-18/03/26
+18/03/26 : For students:
 Create a pipe CI GitHub Action to trigger SonarQube Cloud
  
